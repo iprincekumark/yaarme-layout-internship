@@ -1,0 +1,110 @@
+.grey{
+    -webkit-filter: grayscale(10%);
+   filter: grayscale(80%);
+    font-size: 5em;
+}
+#more {display: none;}
+
+
+.username{
+    margin-top: 5px;
+}
+
+.info1{
+    margin-top: -17px;
+    color: grey;
+}
+
+.followers{
+    margin-top: -14px;
+    color:cornflowerblue;
+}
+
+.status{
+    margin-top: -5px;
+}
+
+.linebreak1{
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -9px;
+    height: 3px;
+    color: #00000000;
+}
+
+.postinfo1{
+    margin-top: 0px;
+}
+
+.linebreak2{
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -16px;
+    color: lightslategrey;
+}
+.circular--square1 {
+  overflow: hidden;
+  margin-left: -10px;
+}
+.circular--square2 {
+  overflow: hidden;
+  margin-left: +12px;
+  margin-top: -45px;
+  border: 1px solid rgb(235, 226, 226);
+}
+.circular--square3{
+    margin-top: +10px;
+}
+h3 {
+        font-size: 15px;
+        font-weight: 500;
+        font-family: "Gill Sans", sans-serif;
+      }
+h5 {
+        font-weight: 500;
+        font-family: system-ui;
+      }
+.username2{
+    margin-top: -60px;
+    margin-inline-start: 60px;
+}
+.followers2{
+    margin-top: -11px;
+    margin-inline-start: 60px;
+    color:gray;
+}
+.time{
+    margin-inline-start: 60px;
+    margin-top: -11px;
+    color:gray;
+}
+.icons{
+    position: fixed;
+    margin-inline-start: +266px;
+    margin-block-start: -695px;
+}
+.icons2{
+    position:fixed;
+    margin-inline-start: +305px;
+    margin-block-start: -694px;
+}
+.button1 {
+  border: 0;
+  color: rgb(0, 0, 0);
+  padding: 0px 300.5px;
+  transform-box:unset;
+  margin-inline-end: 600px;
+  margin-inline-start: -3px;
+  cursor:all-scroll;
+}
+.font1{
+    margin-inline-start: -540px;
+}
+.font2{
+    margin-inline-start: -520px;
+}
+.write{
+    position:fixed;
+    margin-left: 266px;
+    margin-block-start: -150px;
+}
